@@ -10,4 +10,4 @@ const AlbumDetail = (props) => {
   )
 };
 
-export defult AlbumDetail;
+export default AlbumDetail;
